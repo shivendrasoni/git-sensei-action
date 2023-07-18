@@ -1,0 +1,4 @@
+.idea/
+venv/
+git_sensei/settings/.secrets.toml
+__pycache__

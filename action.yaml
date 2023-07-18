@@ -1,0 +1,5 @@
+name: 'Git Sensei'
+description: 'Add description, review, understand and suggest optimizations for pull requests'
+runs:
+  using: 'docker'
+  image: 'Dockerfile.github_action_dockerhub'
